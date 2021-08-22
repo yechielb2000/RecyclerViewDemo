@@ -1,6 +1,6 @@
 # RecyclerViewDemo
 
- How to built it
+** How to built it
 
 1. Create new layout it will be your card in the list
 2. Create an object that contains the info you want to show in the cards
